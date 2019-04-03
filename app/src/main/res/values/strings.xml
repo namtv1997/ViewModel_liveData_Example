@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewModel_LiveData_examble</string>
+    <string name="label_address">Address</string>
+    <string name="label_age">Age</string>
+    <string name="label_user_name">UserName</string>
+    <string name="label_input_user_name">Nhập User Name</string>
+    <string name="label_input_address">Nhập Address</string>
+    <string name="label_input_age">Nhập Age</string>
+    <string name="label_send_data">Send Data</string>
+</resources>
